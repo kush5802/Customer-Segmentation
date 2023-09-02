@@ -1,1 +1,1 @@
-
+Discover valuable insights from your customer data with this Customer Segmentation project in R. Customer Segmentation is a critical application of unsupervised learning, and this project employs the powerful K-means clustering algorithm to categorize your customer base. With this project, you can uncover distinct customer segments based on gender, age, spending habits, and more, allowing you to tailor your marketing efforts effectively.
